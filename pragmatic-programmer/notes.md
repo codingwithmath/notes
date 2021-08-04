@@ -1,0 +1,2 @@
+### **What Makes a Pragmatic Programmer?**
+In order to be a Pragmatic Programmer, we're challenging you to think about what you're doing while you're doing it. This isn't a one-time audit of current practices--it's an ongoing critical appraisal of every decision you make, every day and on every project. Never run on auto-pilot. Constantly be thinking, critiquing your work in real time.
