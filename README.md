@@ -1,2 +1,4 @@
-# my-notes
-simple repo with my study notes.
+# notes
+a repository with my study notes on some topics I'm interested in
+
+
