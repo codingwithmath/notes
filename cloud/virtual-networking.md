@@ -33,10 +33,22 @@ to provide this logically isolated network, the cloud providers offer the virtua
 
 
 
+# Resources in Virtual Networks
 
+we can create and deploy various resources to build a complete cloud-based infraestructure, such as: 
 
+***Virtual Machines***: Create a VM based on any specific requirements, including vCPUs, memory, storage and networking settings.
 
+***Load Balancers***: to distribute incoming ***network traffic*** across multiple instances, to ensure that no sinle instance is overwhelmed. This helps in achieving high availability and fault tolerance.
 
+***Private and Public IP Addresses***: 
+***DNS Resolution***
 
-
+There is a lot more resources that we can create in a Virtual Network
+- Subnets
+- Network Security Groups
+- Virtual Network Gateways
+- Network Watcher
+- Cloud Firewall
+- Virtual Network Peering
 
